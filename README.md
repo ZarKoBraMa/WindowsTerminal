@@ -1,11 +1,11 @@
 # WindowsTerminal
 
-#Download:
+# Download:
 - from Windows Store -> PowerShell
 - from https://www.nerdfonts.com/ -> font: Jetbrains Mono Nerd Fonts
 - from https://starship.rs/ -> go to terminal and type command: winget install --id Starship.Starship
 
-#Open terminal:
+# Open terminal:
 - if error is shown related to execution policy, open terminal as admin and type: Set-ExecutionPolicy RemoteSigned
 - Open Settings as JSON and in Schemas property as first in the list set next theme:
 {
